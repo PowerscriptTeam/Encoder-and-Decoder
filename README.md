@@ -1,4 +1,4 @@
-![Encoder & Decoder](https://github.com/PowerscriptTeam/Encoder-and-Decoder/tool.png)
+![Encoder & Decoder](https://raw.githubusercontent.com/PowerscriptTeam/Encoder-and-Decoder/refs/heads/main/tool.png)
 
 # 🔐 Encoder & Decoder Web Tool
 
