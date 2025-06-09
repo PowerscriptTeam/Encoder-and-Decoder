@@ -50,12 +50,6 @@ No setup, no install — 100% browser-based.
 
 ---
 
-## 📸 Screenshots
-
-*(Insert tool screenshots or a preview GIF here if available)*
-
----
-
 ## 💡 Use Cases
 
 - Decode secret messages
@@ -83,7 +77,7 @@ Pull requests and issues are welcome!
 
 ## 📜 License
 
-MIT License © [PowerscriptTeam](https://github.com/PowerscriptTeam)
+MIT License © [Powerscript Team](https://github.com/PowerscriptTeam)
 
 ---
 
