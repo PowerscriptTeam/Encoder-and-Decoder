@@ -1,4 +1,4 @@
-![Encoder & Decoder](https://your-image-url.com/banner.png)
+![Encoder & Decoder](https://github.com/PowerscriptTeam/Encoder-and-Decoder/tool.png)
 
 # 🔐 Encoder & Decoder Web Tool
 
