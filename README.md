@@ -1,24 +1,24 @@
+![Encoder & Decoder](https://your-image-url.com/banner.png)
+
 # 🔐 Encoder & Decoder Web Tool
 
-A simple yet powerful web-based application that allows users to encode and decode text using a wide variety of classical and modern ciphers.
+A fast and intuitive web-based encoder & decoder for various classical and modern ciphers. No installation needed — just open it in your browser.
 
 ## 🌐 Live Demo
 
-👉 [Try it Now on Vercel](https://encoder-decoder-swart.vercel.app/)
+👉 **[Use the Tool here!](https://encoder-decoder-swart.vercel.app/)**
 
 ---
 
-## 🧠 Features
+## 🧠 Supported Encodings
 
-This tool supports encoding and decoding with the following algorithms and formats:
+### 🔢 Alphabet Systems
+- A = 1 to Z = 26
+- A = 0 to Z = 25
+- Z = 1 to A = 26
 
-### 🔢 Alphabet Mappings
-- A=1 to Z=26
-- A=0 to Z=25
-- Z=1 to A=26
-
-### 🔁 Classic & Modern Ciphers
-- Caesar Shift
+### 🔁 Ciphers
+- Caesar Cipher
 - Vigenère Cipher
 - Atbash Cipher
 - ROT13
@@ -30,7 +30,7 @@ This tool supports encoding and decoding with the following algorithms and forma
 - Polybius Square
 - Tap Code
 
-### 🧮 Encoding Systems
+### 🔣 Data Formats
 - Binary
 - ASCII
 - Morse Code
@@ -39,10 +39,54 @@ This tool supports encoding and decoding with the following algorithms and forma
 
 ---
 
-## 📦 Getting Started
+## ⚡ How to Use
 
-```bash
-git clone https://github.com/PowerscriptTeam/Encoder-and-Decoder.git
-cd Encoder-and-Decoder
-```
-# Then open index.html in your browser
+1. Go to the [Live Demo](https://encoder-decoder-swart.vercel.app/)
+2. Select the encoding or decoding method you want
+3. Enter your message
+4. Get the result instantly!
+
+No setup, no install — 100% browser-based.
+
+---
+
+## 📸 Screenshots
+
+*(Insert tool screenshots or a preview GIF here if available)*
+
+---
+
+## 💡 Use Cases
+
+- Decode secret messages
+- Explore historical ciphers
+- Solve CTF puzzles
+- Learn basic cryptography
+- Build steganography pipelines
+
+---
+
+## 🛠 Tech Stack
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+---
+
+## 🤝 Contribute
+
+Want to add a cipher or improve something?  
+Pull requests and issues are welcome!
+
+---
+
+## 📜 License
+
+MIT License © [PowerscriptTeam](https://github.com/PowerscriptTeam)
+
+---
+
+## ⭐ Support the Project
+
+If you found this useful, give it a ⭐ on GitHub and share it with others!
